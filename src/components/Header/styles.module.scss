@@ -1,0 +1,10 @@
+.wrapper{
+	display: grid;
+	place-items: center;
+	.container{
+		display: flex;
+		div{
+			margin-right: 20px;
+		}
+	}
+}
